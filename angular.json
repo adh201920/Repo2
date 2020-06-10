@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CursoAngularOW"
+    }
+  },
+  "defaultProject": "CursoAngularOW",
+  "cli": {
+    "analytics": "db1189ad-fdc7-428b-93ff-6b6ed75cfc43"
+  }
 }
